@@ -1,0 +1,7 @@
+{
+  "BAD_REQUEST": "Invalid Request. Please verify the data sent.",
+  "INTERNAL_SERVER_ERROR": "Internal Server Error. Please try again later.",
+  "REQUIRED": "{{.Arg0}} is required.",
+  "GT": "{{.Arg0}} must be greater than {{.Arg1}}.",
+  "EMAIL": "{{.Arg0}} must be a valid email."
+}
